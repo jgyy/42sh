@@ -36,7 +36,7 @@ SRC_FILES = ft_strlen.c \
 	ft_toupper.c \
 	ft_tolower.c \
 	ft_atoi.c \
-	*ft_itoa.c \
+	ft_itoa.c \
 	ft_putchar.c \
 	ft_putstr.c \
 	ft_putendl.c \
